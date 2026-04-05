@@ -1,7 +1,7 @@
 # Felipe Iván Sierra Borunda
 
 🎓 Estudiante de Ingeniería Mecatrónica — UADY  
-🔭 Actualmente trabajando en mi tesis: Monitor de Glucosa No Invasivo (IoT + BLE)  
+🔭 Actualmente trabajando en mi tesis 
 📱 Practicante de desarrollo móvil en ABIM (Flutter/Dart)  
 📍 Mérida, Yucatán, México  
 
