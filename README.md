@@ -2,7 +2,6 @@
 
 🎓 Estudiante de Ingeniería Mecatrónica — UADY  
 🔭 Actualmente trabajando en mi tesis 
-
 📱 Practicante de desarrollo móvil en ABIM (Flutter/Dart)  
 📍 Mérida, Yucatán, México  
 
