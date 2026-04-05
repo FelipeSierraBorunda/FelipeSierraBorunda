@@ -49,9 +49,9 @@
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| 🩺 [Monitor de Glucosa](https://github.com/TU_USUARIO/repo) | Medición no invasiva de glucosa con IoT | ESP32, BLE, Python |
-| ⚖️ [Báscula Inteligente](https://github.com/TU_USUARIO/repo) | Registro calórico diario con WiFi | ESP32, WiFi, Flutter |
-| 🌾 [Dosificador de Semillas](https://github.com/TU_USUARIO/repo) | Dosificación de precisión con IoT | Arduino, 3D, C++ |
+| 🩺 [Sensor de Glucosa](https://github.com/FelipeSierraBorunda/ArchivosTesis.git) | Medición no invasiva de glucosa | En proceso |
+| ⚖️ [Báscula Inteligente](https://github.com/FelipeSierraBorunda/Bascula_Inteligente.git) | Registro calórico diario con WiFi | ESP32, WiFi, html |
+| 🌾 [Dosificador de Semillas](https://github.com/FelipeSierraBorunda/DosificadorDeSemillas_ESP32_PaginaWeb_Wifi.git) | Dosificación de precisión con IoT | Esp32, 3D, C++ |
 
 ---
 
