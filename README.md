@@ -1,16 +1,15 @@
 # Felipe Iván Sierra Borunda
 
-🎓 Estudiante de Ingeniería Mecatrónica — UADY  
-🔭 Actualmente trabajando en mi tesis 
-
-📱 Practicante de desarrollo móvil en ABIM (Flutter/Dart)  
+🎓 Mechatronics Engineering Student — UADY  
+🔭 Currently working on my thesis: Non-Invasive Glucose Monitor  
+📱 Mobile Development Intern at ABIM (Flutter/Dart)  
 📍 Mérida, Yucatán, México  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Lenguajes**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -29,7 +28,7 @@
 ![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=flat&logo=bluetooth&logoColor=white)
 ![WiFi](https://img.shields.io/badge/WiFi-IoT-00ADEF?style=flat)
 
-**Diseño & EDA**  
+**Design & EDA**  
 ![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion_360-FF6D00?style=flat&logo=autodesk&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -40,24 +39,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default&langs_count=8"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeSierraBorunda&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSierraBorunda&layout=compact&theme=default&langs_count=8"/>
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 🩺 [Sensor de Glucosa](https://github.com/FelipeSierraBorunda/ArchivosTesis.git) | Medición no invasiva de glucosa | En proceso |
-| ⚖️ [Báscula Inteligente](https://github.com/FelipeSierraBorunda/Bascula_Inteligente.git) | Registro calórico diario con WiFi | ESP32, WiFi, html |
-| 🌾 [Dosificador de Semillas](https://github.com/FelipeSierraBorunda/DosificadorDeSemillas_ESP32_PaginaWeb_Wifi.git) | Dosificación de precisión con IoT | Esp32, 3D, C++ |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🩺 [Glucose Monitor](https://github.com/FelipeSierraBorunda/ArchivosTesis.git) | Non-invasive glucose measurement | In progress |
+| ⚖️ [Smart Scale](https://github.com/FelipeSierraBorunda/Bascula_Inteligente.git) | Daily caloric intake tracker with WiFi | ESP32, WiFi, HTML |
+| 🌾 [Seed Dispenser](https://github.com/FelipeSierraBorunda/DosificadorDeSemillas_ESP32_PaginaWeb_Wifi.git) | Precision IoT grain dosing system | ESP32, 3D, C++ |
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipesierraborunda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-
