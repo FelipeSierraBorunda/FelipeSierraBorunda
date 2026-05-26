@@ -41,7 +41,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🩺 [Glucose Monitor](https://github.com/FelipeSierraBorunda/ArchivosTesis.git) | Non-invasive glucose measurement | In progress |
+| 🩺 [Glucose Monitor](https://github.com/FelipeSierraBorunda/TesisPublica.git) | Non-invasive glucose measurement | In progress |
 | ⚖️ [Smart Scale](https://github.com/FelipeSierraBorunda/Bascula_Inteligente.git) | Daily caloric intake tracker with WiFi | ESP32, WiFi, HTML |
 | 🌾 [Seed Dispenser](https://github.com/FelipeSierraBorunda/DosificadorDeSemillas_ESP32_PaginaWeb_Wifi.git) | Precision IoT grain dosing system | ESP32, 3D, C++ |
 
