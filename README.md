@@ -1,11 +1,11 @@
 # Felipe Iván Sierra Borunda
 
-🎓 Mechatronics Engineering Student — UADY  
-🔭 Currently working on my thesis: Non-Invasive Glucose Monitor  
-📱 Mobile Development Intern at ABIM (Flutter/Dart)  
+🎓 Mechatronics Engineering — UADY  
+🔭 Thesis: Non-Invasive Glucose Measurement using Multispectral Waves and Machine Learning
+📱 Recently wrapped up a Mobile Development internship at ABIM (Flutter/Dart) 
 📍 Mérida, Yucatán, México  
 
----
+---n
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +41,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🩺 [Glucose Monitor](https://github.com/FelipeSierraBorunda/TesisPublica.git) | Non-invasive glucose measurement | In progress |
+| 🩺 [Glucose Monitor](https://github.com/FelipeSierraBorunda/TesisPublica.git) | Non-invasive glucose measurement | PCB, ML |
 | ⚖️ [Smart Scale](https://github.com/FelipeSierraBorunda/Bascula_Inteligente.git) | Daily caloric intake tracker with WiFi | ESP32, WiFi, HTML |
 | 🌾 [Seed Dispenser](https://github.com/FelipeSierraBorunda/DosificadorDeSemillas_ESP32_PaginaWeb_Wifi.git) | Precision IoT grain dosing system | ESP32, 3D, C++ |
 
