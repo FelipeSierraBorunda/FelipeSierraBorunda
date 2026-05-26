@@ -2,10 +2,8 @@
 
 🎓 Mechatronics Engineering — UADY  
 🔭 Thesis: Non-Invasive Glucose Measurement using Multispectral Waves and Machine Learning
-📱 Recently wrapped up a Mobile Development internship at ABIM (Flutter/Dart) 
+📱 Recently wrapped up a Mobile Development internship at ABIM (Flutter/Dart)
 📍 Mérida, Yucatán, México  
-
----n
 
 ## 🛠️ Tech Stack
 
